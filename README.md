@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saralucialozanorueda" alt="saralucialozanorueda" /></a> </p>
 
-- 🔭 I’m currently working on projects that i developed in Cmapus [Betplay con Json](https://github.com/SaraLuciaLozanoRueda/Betplay-con-Json)
+- 🔭 I’m currently working on projects that i developed in Campus [Betplay con Json](https://github.com/SaraLuciaLozanoRueda/Betplay-con-Json)
 
 - 🌱 I’m currently learning **Java,Springboot**
 
