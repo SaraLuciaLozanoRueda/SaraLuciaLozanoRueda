@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sara Lozano</h1>
 <h3 align="center">I am a junior developer with the desire to obtain new knowledge and put it into practice</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saralucialozanorueda" alt="saralucialozanorueda" /></a> </p>
 
 - 🔭 I’m currently working on projects that i developed in Campus [Betplay con Json](https://github.com/SaraLuciaLozanoRueda/Betplay-con-Json)
 
