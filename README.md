@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **database**
 
-- 📫 How to reach me **saralucialozanorueda99@gmail.com**
+- 📫 How to reach me **saralucialozanorueda99@gmail.com** https://www.linkedin.com/in/sara-lucia-lozano-rueda
 
 - ⚡ Fun fact **I'm usually very clumsy**
 <br>
