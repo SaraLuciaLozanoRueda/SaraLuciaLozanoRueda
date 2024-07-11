@@ -14,12 +14,12 @@
 
 - 📫 How to reach me **saralucialozanorueda99@gmail.com** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-lucia-lozano-rueda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-lucia-lozano-rueda" height="30" width="40" /></a>
-</p>
-
 - ⚡ Fun fact **I'm usually very clumsy**
+  <br>
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-lucia-lozano-rueda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sara-lucia-lozano-rueda" height="30" width="40" /></a>
+</p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <br><br>
